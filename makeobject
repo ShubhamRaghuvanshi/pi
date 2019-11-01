@@ -1,0 +1,2 @@
+
+g++ *.cc *.h -o main.o  
